@@ -20,3 +20,4 @@ Integrating the ESP32 Cam with Home Assistant
 
 ### Demo
 
+https://youtu.be/7c8ZOJZAs9E
